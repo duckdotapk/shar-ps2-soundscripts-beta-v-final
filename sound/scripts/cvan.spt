@@ -1,0 +1,18 @@
+create daSoundResourceData named cVan_car
+{
+    AddFilename ( "sound/carsound/chasevan.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.750000 )
+}
+create daSoundResourceData named cVan_horn
+{
+    AddFilename ( "sound/carsound/horn-horn06.rsd" 1.000000 )
+    SetTrim ( 0.780000 )
+    SetLooping ( true )
+}
+create daSoundResourceData named cVan_overlay
+{
+    AddFilename ( "sound/carsound/black_van.rsd" 1.000000 )
+    SetTrim ( 0.960000 )
+    SetLooping ( true )
+}

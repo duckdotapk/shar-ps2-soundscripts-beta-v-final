@@ -1,0 +1,12 @@
+create daSoundResourceData named famil
+{
+    AddFilename ( "sound/carsound/familycar.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.510000 )
+}
+create daSoundResourceData named famil_horn
+{
+    AddFilename ( "sound/carsound/horn-horn06.rsd" 1.000000 )
+    SetTrim ( 0.900000 )
+    SetLooping ( true )
+}

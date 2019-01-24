@@ -1,0 +1,19 @@
+create daSoundResourceData named cfirecar_v
+{
+    AddFilename ( "sound/carsound/firetruck.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.630000 )
+}
+create daSoundResourceData named cfirecar_horn
+{
+    AddFilename ( "sound/carsound/fire_horn.rsd" 1.000000 )
+    SetTrim ( 0.800000 )
+    SetLooping ( false )
+}
+create daSoundResourceData named cfirecar_overlay
+{
+    AddFilename ( "sound/carsound/fire_siren_02.rsd" 1.000000 )
+    SetTrim ( 0.800000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}

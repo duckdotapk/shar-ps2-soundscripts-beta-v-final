@@ -1,0 +1,12 @@
+create daSoundResourceData named sedanB_v
+{
+    AddFilename ( "sound/carsound/sedanB.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.760000 )
+}
+create daSoundResourceData named sedanB_v_horn
+{
+    AddFilename ( "sound/carsound/horn-bmw.rsd" 1.000000 )
+    SetTrim ( 0.760000 )
+    SetLooping ( true )
+}

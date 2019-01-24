@@ -1,0 +1,12 @@
+create daSoundResourceData named honor
+{
+    AddFilename ( "sound/carsound/honor.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.640000 )
+}
+create daSoundResourceData named honor_horn
+{
+    AddFilename ( "sound/carsound/horn-beep2.rsd" 1.000000 )
+    SetTrim ( 0.800000 )
+    SetLooping ( true )
+}

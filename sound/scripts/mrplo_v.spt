@@ -1,0 +1,12 @@
+create daSoundResourceData named mrplo
+{
+    AddFilename ( "sound/carsound/mrplow.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.880000 )
+}
+create daSoundResourceData named mrplo_horn
+{
+    AddFilename ( "sound/carsound/horn-truck2.rsd" 1.000000 )
+    SetTrim ( 0.700000 )
+    SetLooping ( true )
+}

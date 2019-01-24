@@ -1,0 +1,12 @@
+create daSoundResourceData named cKlimo_car
+{
+    AddFilename ( "sound/carsound/klownkar.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.700000 )
+}
+create daSoundResourceData named cKlimo_horn
+{
+    AddFilename ( "sound/carsound/horn-bulb.rsd" 1.000000 )
+    SetTrim ( 0.650000 )
+    SetLooping ( false )
+}

@@ -1,0 +1,13 @@
+create daSoundResourceData named power_coupling_smash
+{
+    SetStreaming ( true )
+    AddFilename ( "sound/soundfx/collect_soundfx/powerbox_smash_02.rsd" 1.000000 )
+    SetTrim ( 1.000000 )
+}
+create daSoundResourceData named level_1_pickup_sfx
+{
+    SetStreaming ( true )
+    AddFilename ( "sound/soundfx/collect_soundfx/card_collect_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collect_soundfx/card_collect_03.rsd" 1.000000 )
+    SetTrim ( 1.000000 )
+}

@@ -1,0 +1,11 @@
+create daSoundResourceData named burns
+{
+    AddFilename ( "sound/carsound/stutz.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.900000 )
+}
+create daSoundResourceData named burns_horn
+{
+    AddFilename ( "sound/carsound/horn-awooga.rsd" 1.000000 )
+    SetTrim ( 0.840000 )
+}

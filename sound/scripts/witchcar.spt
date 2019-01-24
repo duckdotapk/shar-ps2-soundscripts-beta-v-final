@@ -1,0 +1,16 @@
+create daSoundResourceData named witchcar_v
+{
+    AddFilename ( "sound/carsound/broom.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.730000 )
+}
+create daSoundResourceData named witchcar_v_horn
+{
+    AddFilename ( "sound/carsound/witch_horn.rsd" 1.000000 )
+    SetTrim ( 1.000000 )
+}
+create daSoundResourceData named witchcar_v_skid
+{
+    AddFilename ( "sound/carsound/blank.rsd" 1.000000 )
+    SetLooping ( true )
+}

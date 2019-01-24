@@ -1,0 +1,12 @@
+create daSoundResourceData named gramp
+{
+    AddFilename ( "sound/carsound/ww2jeep.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.790000 )
+}
+create daSoundResourceData named gramp_horn
+{
+    AddFilename ( "sound/carsound/horn-horn04.rsd" 1.000000 )
+    SetTrim ( 0.810000 )
+    SetLooping ( true )
+}

@@ -1,0 +1,11 @@
+create daSoundResourceData named hallo_v
+{
+    AddFilename ( "sound/carsound/hallowhearse.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.780000 )
+}
+create daSoundResourceData named hallo_v_horn
+{
+    AddFilename ( "sound/carsound/horn-hearse.rsd" 1.000000 )
+    SetTrim ( 1.000000 )
+}

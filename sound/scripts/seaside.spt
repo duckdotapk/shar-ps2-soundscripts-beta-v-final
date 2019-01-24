@@ -1,0 +1,55 @@
+create daSoundResourceData named lighthouse
+{
+    AddFilename ( "sound/soundfx/positional/lighthouse_wind_loop.rsd" 1.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named kampkrusty_creek
+{
+    AddFilename ( "sound/soundfx/positional/kampkrusty_creek.rsd" 0.000000 )
+    SetTrim ( 0.680000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named kampkrusty_creek_night
+{
+    AddFilename ( "sound/soundfx/positional/kampkrusty_creek_night.rsd" 0.000000 )
+    SetTrim ( 0.790000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named dam
+{
+    AddFilename ( "sound/soundfx/positional/dam.rsd" 0.000000 )
+    SetTrim ( 0.720000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named gull_takeoff
+{
+    AddFilename ( "sound/soundfx/interactive_props/gag_gull.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetStreaming ( true )
+}
+create daSoundResourceData named pigflies
+{
+    AddFilename ( "sound/soundfx/positional/pigflies.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetStreaming ( true )
+    SetLooping ( true )
+}
+create daSoundResourceData named robo_arm
+{
+    AddFilename ( "sound/soundfx/positional/robo_arm.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetStreaming ( true )
+    SetLooping ( true )
+}
+create daSoundResourceData named waterfall
+{
+    AddFilename ( "sound/soundfx/positional/kampkrusty_creek.rsd" 0.000000 )
+    SetTrim ( 0.650000 )
+    SetStreaming ( true )
+    SetLooping ( true )
+}

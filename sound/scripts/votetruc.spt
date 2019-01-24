@@ -1,0 +1,12 @@
+create daSoundResourceData named votetruck_v
+{
+    AddFilename ( "sound/carsound/quimbytruck.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.810000 )
+}
+create daSoundResourceData named votetruc_horn
+{
+    AddFilename ( "sound/carsound/vote_quimby_03.rsd" 1.000000 )
+    SetLooping ( false )
+    SetTrim ( 0.750000 )
+}

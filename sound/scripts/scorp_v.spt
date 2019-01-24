@@ -1,0 +1,12 @@
+create daSoundResourceData named scorp
+{
+    AddFilename ( "sound/carsound/scorpion.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.480000 )
+}
+create daSoundResourceData named scorp_horn
+{
+    AddFilename ( "sound/carsound/horn-horn06.rsd" 1.000000 )
+    SetTrim ( 0.810000 )
+    SetLooping ( true )
+}

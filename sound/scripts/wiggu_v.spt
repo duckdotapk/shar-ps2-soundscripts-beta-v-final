@@ -1,0 +1,12 @@
+create daSoundResourceData named wiggum_car
+{
+    AddFilename ( "sound/carsound/copcar.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.690000 )
+}
+create daSoundResourceData named wiggum_horn
+{
+    AddFilename ( "sound/carsound/common/horn.rsd" 1.000000 )
+    SetTrim ( 0.840000 )
+    SetLooping ( true )
+}

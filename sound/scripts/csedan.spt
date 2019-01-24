@@ -1,0 +1,18 @@
+create daSoundResourceData named cSedan_car
+{
+    AddFilename ( "sound/carsound/chasesedan.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.520000 )
+}
+create daSoundResourceData named cSedan_horn
+{
+    AddFilename ( "sound/carsound/horn-horn06.rsd" 1.000000 )
+    SetTrim ( 0.840000 )
+    SetLooping ( true )
+}
+create daSoundResourceData named cSedan_overlay
+{
+    AddFilename ( "sound/carsound/siren.rsd" 1.000000 )
+    SetTrim ( 0.840000 )
+    SetLooping ( true )
+}

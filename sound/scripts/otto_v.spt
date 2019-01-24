@@ -1,0 +1,12 @@
+create daSoundResourceData named otto
+{
+    AddFilename ( "sound/carsound/ottobus.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.650000 )
+}
+create daSoundResourceData named otto_horn
+{
+    AddFilename ( "sound/carsound/horn-truck5.rsd" 1.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+}

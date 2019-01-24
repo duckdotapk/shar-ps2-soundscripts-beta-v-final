@@ -1,0 +1,12 @@
+create daSoundResourceData named fishtruck
+{
+    AddFilename ( "sound/carsound/fishvan.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.850000 )
+}
+create daSoundResourceData named fishtruck_horn
+{
+    AddFilename ( "sound/carsound/horn-horn06.rsd" 1.000000 )
+    SetTrim ( 0.700000 )
+    SetLooping ( true )
+}

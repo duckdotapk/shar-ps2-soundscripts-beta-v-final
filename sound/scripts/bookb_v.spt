@@ -1,0 +1,12 @@
+create daSoundResourceData named bookb
+{
+    AddFilename ( "sound/carsound/bookvan.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 1.000000 )
+}
+create daSoundResourceData named bookb_horn
+{
+    AddFilename ( "sound/carsound/horn-jetta.rsd" 1.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+}

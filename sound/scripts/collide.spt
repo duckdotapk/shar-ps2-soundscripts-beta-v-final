@@ -1,0 +1,209 @@
+create daSoundResourceData named large_car_crash
+{
+    AddFilename ( "sound/soundfx/collisions/large_vehicle_crash_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/large_vehicle_crash_02.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/large_vehicle_crash_03.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.770000 )
+}
+create daSoundResourceData named medium_car_crash
+{
+    AddFilename ( "sound/soundfx/collisions/medium_vehicle_crash_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/medium_vehicle_crash_02.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/medium_vehicle_crash_03.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.750000 )
+}
+create daSoundResourceData named small_car_crash
+{
+    AddFilename ( "sound/soundfx/collisions/small_vehicle_crash_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/small_vehicle_crash_02.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/small_vehicle_crash_03.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.750000 )
+}
+create daSoundResourceData named car_hit_link_fence
+{
+    AddFilename ( "sound/soundfx/collisions/chainlink_fence_crash_03.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.700000 )
+}
+create daSoundResourceData named car_hit_crate
+{
+    AddFilename ( "sound/soundfx/collisions/crate_smash_03.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/crate_smash_02.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.890000 )
+}
+create daSoundResourceData named car_hit_garbage_can
+{
+    AddFilename ( "sound/soundfx/collisions/garbage_can.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.770000 )
+}
+create daSoundResourceData named car_hit_hydrant
+{
+    AddFilename ( "sound/soundfx/collisions/hydrant_hit.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.580000 )
+}
+create daSoundResourceData named car_hit_mailbox
+{
+    AddFilename ( "sound/soundfx/collisions/mailbox_hit_0318a.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.490000 )
+}
+create daSoundResourceData named car_hit_tree
+{
+    AddFilename ( "sound/soundfx/collisions/tree_hit_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/tree_hit_03.rsd" 1.000000 )
+    SetTrim ( 0.680000 )
+    SetPitchRange ( 0.900000 1.100000 )
+}
+create daSoundResourceData named hit_shrub
+{
+    AddFilename ( "sound/soundfx/collisions/shrub_hit_01.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.560000 )
+}
+create daSoundResourceData named car_hit_streetlamp
+{
+    AddFilename ( "sound/soundfx/collisions/streetlamp_hit_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/streetlamp_hit_02.rsd" 1.000000 )
+    SetTrim ( 0.750000 )
+}
+create daSoundResourceData named car_hit_phonestop
+{
+    AddFilename ( "sound/soundfx/collisions/phone_booth_hit.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.690000 )
+}
+create daSoundResourceData named car_hit_stopsign
+{
+    AddFilename ( "sound/soundfx/collisions/stopsign_hit_02.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/stopsign_hit_03.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.620000 )
+}
+create daSoundResourceData named car_hit_telepole
+{
+    AddFilename ( "sound/soundfx/collisions/telepole_hit_02.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.580000 )
+}
+create daSoundResourceData named hit_concrete
+{
+    AddFilename ( "sound/soundfx/collisions/concrete_hit_02.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/concrete_hit_01.rsd" 1.000000 )
+    SetPitchRange ( 0.800000 1.500000 )
+    SetTrim ( 0.640000 )
+}
+create daSoundResourceData named car_hit_cemetary_gate
+{
+    AddFilename ( "sound/soundfx/collisions/cem_gate_hit_01.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.770000 )
+}
+create daSoundResourceData named car_hit_const_signA
+{
+    AddFilename ( "sound/soundfx/collisions/const_signA_hit_01.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.560000 )
+}
+create daSoundResourceData named car_hit_L2pipe
+{
+    AddFilename ( "sound/soundfx/collisions/L2pipe_hit_01.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.830000 )
+}
+create daSoundResourceData named car_hit_pumpkin
+{
+    AddFilename ( "sound/soundfx/collisions/pumpkin_hit_02.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.620000 )
+}
+create daSoundResourceData named car_hit_pedestrian
+{
+    AddFilename ( "sound/soundfx/collisions/car_hit_body_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/car_hit_body_02.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/car_hit_body_03.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.500000 )
+}
+create daSoundResourceData named microphone_hit
+{
+    AddFilename ( "sound/soundfx/collisions/mic_hit_02.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.620000 )
+}
+create daSoundResourceData named movielight_hit
+{
+    AddFilename ( "sound/soundfx/collisions/movielight_hit_01.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.630000 )
+}
+create daSoundResourceData named powerbox_smash
+{
+    AddFilename ( "sound/soundfx/collisions/power_coupling_smash.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.630000 )
+}
+create daSoundResourceData named krustyglass_smash
+{
+    AddFilename ( "sound/soundfx/collisions/lrg_glass_09.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/lrg_glass_11.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.960000 )
+}
+create daSoundResourceData named explode_01
+{
+    AddFilename ( "sound/soundfx/collisions/gaspump_explode_01.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.810000 )
+}
+create daSoundResourceData named generic_car_explode
+{
+    AddFilename ( "sound/soundfx/collisions/car_explosion_01b.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/car_explosion_05b.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.950000 )
+}
+create daSoundResourceData named suspension_ronks
+{
+    AddFilename ( "sound/soundfx/collisions/homer_car_land_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/homer_car_land_02.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.520000 )
+}
+create daSoundResourceData named hydrant_spray
+{
+    AddFilename ( "sound/soundfx/collisions/hydrant_spray.rsd" 1.000000 )
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.490000 )
+}
+create daSoundResourceData named generic_metal_hit
+{
+    AddFilename ( "sound/soundfx/collisions/gen_metal_02.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/gen_metal_03.rsd" 1.000000 )
+    SetPitchRange ( 0.800000 1.500000 )
+    SetTrim ( 0.750000 )
+}
+create daSoundResourceData named vending_machine_hit
+{
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.690000 )
+    AddFilename ( "sound/soundfx/collisions/vending_machine_hit_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/vending_machine_hit_03.rsd" 1.000000 )
+}
+create daSoundResourceData named monkey_crate_hit
+{
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 1.000000 )
+    AddFilename ( "sound/soundfx/collisions/monkey_crate_01.rsd" 1.000000 )
+}
+create daSoundResourceData named dumpster_hit
+{
+    SetPitchRange ( 0.900000 1.100000 )
+    SetTrim ( 0.930000 )
+    AddFilename ( "sound/soundfx/collisions/dumpster_hit.rsd" 1.000000 )
+}

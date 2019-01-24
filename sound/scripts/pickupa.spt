@@ -1,0 +1,12 @@
+create daSoundResourceData named pickupA_car
+{
+    AddFilename ( "sound/carsound/pickup.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.660000 )
+}
+create daSoundResourceData named pickupA_horn
+{
+    AddFilename ( "sound/carsound/horn-horn06.rsd" 1.000000 )
+    SetTrim ( 0.780000 )
+    SetLooping ( true )
+}

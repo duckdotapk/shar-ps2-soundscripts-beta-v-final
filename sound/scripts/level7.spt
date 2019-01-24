@@ -1,0 +1,108 @@
+create daSoundResourceData named nuclear_waste_collect
+{
+    SetStreaming ( true )
+    AddFilename ( "sound/soundfx/collect_soundfx/card_collect_01.rsd" 1.000000 )
+}
+create daSoundResourceData named halloween_trigger_01
+{
+    SetStreaming ( true )
+    AddFilename ( "sound/soundfx/positional/scream_01.rsd" 1.000000 )
+    SetTrim ( 1.000000 )
+}
+create daSoundResourceData named halloween_trigger_02
+{
+    SetStreaming ( true )
+    AddFilename ( "sound/soundfx/positional/wolf_howl.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/positional/cat.rsd" 1.000000 )
+}
+create daSoundResourceData named halloween_trigger_03
+{
+    SetStreaming ( true )
+    AddFilename ( "sound/soundfx/positional/creaky_door_slam.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/positional/dentist_drill.rsd" 1.000000 )
+}
+create daSoundResourceData named halloween_trigger_04
+{
+    SetStreaming ( true )
+    AddFilename ( "sound/soundfx/collect_soundfx/piggy_02.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/collect_soundfx/ghost_kids_10.rsd" 1.000000 )
+}
+create daSoundResourceData named halloween_trigger_05
+{
+    SetStreaming ( true )
+    AddFilename ( "sound/soundfx/positional/halloween_chicken.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/positional/piggy_02.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/positional/ghost_kids_12.rsd" 1.000000 )
+    SetLooping ( false )
+}
+create daSoundResourceData named halloween_river
+{
+    AddFilename ( "sound/soundfx/positional/halloween_river.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named swinging_cages
+{
+    AddFilename ( "sound/soundfx/positional/cages_4.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named halloween_cows
+{
+    AddFilename ( "sound/soundfx/positional/halloween_barn.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named ghost_playground
+{
+    AddFilename ( "sound/soundfx/positional/ghost_playground_03.rsd" 0.000000 )
+    AddFilename ( "sound/soundfx/positional/ghost_playground_04.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named moans
+{
+    AddFilename ( "sound/soundfx/positional/zombie_01.rsd" 0.000000 )
+    AddFilename ( "sound/soundfx/positional/zombie_02.rsd" 0.000000 )
+    AddFilename ( "sound/soundfx/positional/zombie_04.rsd" 0.000000 )
+    AddFilename ( "sound/soundfx/positional/scream_05.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( false )
+    SetStreaming ( true )
+}
+create daSoundResourceData named lardlad_monster
+{
+    AddFilename ( "sound/soundfx/positional/lardlad_monster_02.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named tractor_beam
+{
+    AddFilename ( "sound/soundfx/positional/tractor_beam.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named traffic_coffin
+{
+    AddFilename ( "sound/carsound/coffincar.rsd" 1.000000 )
+    SetTrim ( 0.670000 )
+    SetLooping ( true )
+}
+create daSoundResourceData named traffic_hearse
+{
+    AddFilename ( "sound/carsound/hallowhearse.rsd" 1.000000 )
+    SetTrim ( 0.770000 )
+    SetLooping ( true )
+}
+create daSoundResourceData named chase_hearse
+{
+    AddFilename ( "sound/carsound/hearse.rsd" 1.000000 )
+    SetTrim ( 0.670000 )
+    SetLooping ( true )
+}

@@ -1,0 +1,13 @@
+create daSoundResourceData named ambul_car
+{
+    AddFilename ( "sound/carsound/ambulance.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.530000 )
+}
+create daSoundResourceData named ambul_car_horn
+{
+    AddFilename ( "sound/carsound/fire_siren_02.rsd" 1.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}

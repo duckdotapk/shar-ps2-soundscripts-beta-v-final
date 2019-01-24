@@ -1,0 +1,18 @@
+create daSoundResourceData named cHears_car
+{
+    AddFilename ( "sound/carsound/hearse.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.620000 )
+}
+create daSoundResourceData named cHears_horn
+{
+    AddFilename ( "sound/carsound/horn-hearse.rsd" 1.000000 )
+    SetTrim ( 0.870000 )
+    SetLooping ( false )
+}
+create daSoundResourceData named cHears_overlay
+{
+    AddFilename ( "sound/carsound/siren.rsd" 1.000000 )
+    SetTrim ( 0.870000 )
+    SetLooping ( false )
+}

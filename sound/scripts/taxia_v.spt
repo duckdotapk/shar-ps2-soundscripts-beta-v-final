@@ -1,0 +1,6 @@
+create daSoundResourceData named taxiA_car
+{
+    AddFilename ( "sound/carsound/wiggum_car.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.650000 )
+}

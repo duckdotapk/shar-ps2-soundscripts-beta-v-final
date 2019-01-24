@@ -1,0 +1,12 @@
+create daSoundResourceData named sportsA_car
+{
+    AddFilename ( "sound/carsound/sportscarA.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.750000 )
+}
+create daSoundResourceData named sportsA_horn
+{
+    AddFilename ( "sound/carsound/horn-civic.rsd" 1.000000 )
+    SetTrim ( 0.840000 )
+    SetLooping ( true )
+}

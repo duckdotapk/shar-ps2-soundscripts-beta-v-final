@@ -1,0 +1,26 @@
+create daSoundResourceData named fountain
+{
+    AddFilename ( "sound/soundfx/positional/fountian_loop_02.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named car_wash
+{
+    AddFilename ( "sound/soundfx/positional/car_wash_mix_02.rsd" 1.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named pigeon_takeoff
+{
+    AddFilename ( "sound/soundfx/interactive_props/gag_pigeon.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetStreaming ( true )
+}
+create daSoundResourceData named elevator
+{
+    AddFilename ( "sound/soundfx/gameplay/elevator.rsd" 0.000000 )
+    SetTrim ( 0.810000 )
+    SetStreaming ( true )
+}

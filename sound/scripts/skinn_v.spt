@@ -1,0 +1,12 @@
+create daSoundResourceData named skinn
+{
+    AddFilename ( "sound/carsound/skinnercar.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.810000 )
+}
+create daSoundResourceData named skinn_horn
+{
+    AddFilename ( "sound/carsound/horn-jetta.rsd" 1.000000 )
+    SetTrim ( 0.690000 )
+    SetLooping ( true )
+}

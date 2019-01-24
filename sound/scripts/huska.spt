@@ -1,0 +1,11 @@
+create daSoundResourceData named huskaV
+{
+    AddFilename ( "sound/carsound/husk.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 1.000000 )
+}
+create daSoundResourceData named huskaV_skid
+{
+    AddFilename ( "sound/carsound/blank.rsd" 1.000000 )
+    SetLooping ( true )
+}

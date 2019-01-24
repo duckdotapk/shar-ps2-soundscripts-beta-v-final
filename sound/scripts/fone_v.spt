@@ -1,0 +1,12 @@
+create daSoundResourceData named fone
+{
+    AddFilename ( "sound/carsound/formula1.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.560000 )
+}
+create daSoundResourceData named fone_horn
+{
+    AddFilename ( "sound/carsound/horn-mustang.rsd" 1.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+}

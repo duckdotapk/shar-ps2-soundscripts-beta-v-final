@@ -1,0 +1,6 @@
+create daSoundResourceData named coffin_v
+{
+    AddFilename ( "sound/carsound/coffincar.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.740000 )
+}

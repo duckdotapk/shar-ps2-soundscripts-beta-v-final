@@ -1,0 +1,18 @@
+create daSoundResourceData named hbike
+{
+    AddFilename ( "sound/carsound/hoverbike2.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.640000 )
+}
+create daSoundResourceData named hbike_horn
+{
+    AddFilename ( "sound/carsound/horn-frink.rsd" 1.000000 )
+    SetTrim ( 0.840000 )
+    SetLooping ( true )
+}
+create daSoundResourceData named hbike_skid
+{
+    AddFilename ( "sound/carsound/frinkskid.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.560000 )
+}

@@ -1,0 +1,6 @@
+create daSoundResourceData named SUVA_car
+{
+    AddFilename ( "sound/carsound/SUVa.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.770000 )
+}

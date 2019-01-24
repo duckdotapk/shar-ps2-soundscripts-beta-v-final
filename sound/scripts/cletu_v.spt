@@ -1,0 +1,12 @@
+create daSoundResourceData named cletus_car
+{
+    AddFilename ( "sound/carsound/cletus.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.790000 )
+}
+create daSoundResourceData named cletus_horn
+{
+    AddFilename ( "sound/carsound/horn-horn04.rsd" 1.000000 )
+    SetTrim ( 0.780000 )
+    SetLooping ( true )
+}

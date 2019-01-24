@@ -1,0 +1,12 @@
+create daSoundResourceData named SUVB_car
+{
+    AddFilename ( "sound/carsound/wagonA.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.760000 )
+}
+create daSoundResourceData named SUVB_horn
+{
+    AddFilename ( "sound/carsound/horn-horn06.rsd" 1.000000 )
+    SetTrim ( 0.710000 )
+    SetLooping ( true )
+}

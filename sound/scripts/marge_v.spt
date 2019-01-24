@@ -1,0 +1,13 @@
+create daSoundResourceData named marge_car
+{
+    AddFilename ( "sound/carsound/canyonaro.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.760000 )
+}
+create daSoundResourceData named marge_horn
+{
+    AddFilename ( "sound/carsound/horn-jetta.rsd" 1.000000 )
+    SetTrimRange ( 0.500000 0.500000 )
+    SetTrim ( 0.800000 )
+    SetLooping ( true )
+}

@@ -1,0 +1,20 @@
+create daSoundResourceData named countdown_beeps
+{
+    SetTrim ( 1.000000 )
+    AddFilename ( "sound/soundfx/minigame/beep.rsd" 0.000000 )
+}
+create daSoundResourceData named small_crash
+{
+    SetTrim ( 1.000000 )
+    AddFilename ( "sound/soundfx/minigame/small_vehicle_crash_01.rsd" 0.000000 )
+}
+create daSoundResourceData named med_crash
+{
+    SetTrim ( 1.000000 )
+    AddFilename ( "sound/soundfx/minigame/medium_vehicle_crash_01.rsd" 0.000000 )
+}
+create daSoundResourceData named lrg_crash
+{
+    SetTrim ( 1.000000 )
+    AddFilename ( "sound/soundfx/minigame/large_vehicle_crash_01.rsd" 0.000000 )
+}

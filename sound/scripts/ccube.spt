@@ -1,0 +1,12 @@
+create daSoundResourceData named cCube_v
+{
+    AddFilename ( "sound/carsound/cubevan.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.850000 )
+}
+create daSoundResourceData named cCube_v_horn
+{
+    AddFilename ( "sound/carsound/horn-truck02.rsd" 1.000000 )
+    SetTrim ( 0.860000 )
+    SetLooping ( true )
+}

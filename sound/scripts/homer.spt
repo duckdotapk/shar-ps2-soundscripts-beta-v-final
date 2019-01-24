@@ -1,0 +1,72 @@
+create daSoundResourceData named feet_concrete
+{
+    AddFilename ( "sound/soundfx/feet/boots_conc_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/feet/boots_conc_02.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/feet/boots_conc_03.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/feet/boots_conc_04.rsd" 1.000000 )
+    SetTrim ( 0.460000 )
+    SetPitchRange ( 0.900000 1.100000 )
+}
+create daSoundResourceData named feet_concrete_jump
+{
+    AddFilename ( "sound/soundfx/feet/boots_conc_jump_01.rsd" 1.000000 )
+    SetTrim ( 0.370000 )
+    SetPitchRange ( 0.900000 1.100000 )
+}
+create daSoundResourceData named feet_metal
+{
+    AddFilename ( "sound/soundfx/feet/boots_metal_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/feet/boots_metal_02.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/feet/boots_metal_03.rsd" 1.000000 )
+    SetTrim ( 0.410000 )
+    SetPitchRange ( 0.900000 1.100000 )
+}
+create daSoundResourceData named feet_metal_jump
+{
+    AddFilename ( "sound/soundfx/feet/boots_metal_jump_01.rsd" 1.000000 )
+    SetTrim ( 0.410000 )
+    SetPitchRange ( 0.900000 1.100000 )
+}
+create daSoundResourceData named feet_wood
+{
+    AddFilename ( "sound/soundfx/feet/boots_wood_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/feet/boots_wood_02.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/feet/boots_wood_03.rsd" 1.000000 )
+    SetTrim ( 0.410000 )
+    SetPitchRange ( 0.900000 1.100000 )
+}
+create daSoundResourceData named feet_wood_jump
+{
+    AddFilename ( "sound/soundfx/feet/boots_wood_jump_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/feet/boots_wood_jump_02.rsd" 1.000000 )
+    SetTrim ( 0.420000 )
+    SetPitchRange ( 0.900000 1.100000 )
+}
+create daSoundResourceData named jump
+{
+    AddFilename ( "sound/soundfx/gameplay/jump.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/gameplay/jump_02.rsd" 1.000000 )
+    SetTrim ( 0.360000 )
+    SetPitchRange ( 0.900000 1.100000 )
+}
+create daSoundResourceData named homer_stomp
+{
+    AddFilename ( "sound/soundfx/gameplay/homer_stomp_03.rsd" 1.000000 )
+    SetTrim ( 0.630000 )
+    SetPitchRange ( 0.900000 1.100000 )
+}
+create daSoundResourceData named feet_dirt
+{
+    AddFilename ( "sound/soundfx/feet/boots_dirt_01.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/feet/boots_dirt_02.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/feet/boots_dirt_03.rsd" 1.000000 )
+    AddFilename ( "sound/soundfx/feet/boots_dirt_04.rsd" 1.000000 )
+    SetTrim ( 0.470000 )
+    SetPitchRange ( 0.900000 1.100000 )
+}
+create daSoundResourceData named feet_dirt_jump
+{
+    AddFilename ( "sound/soundfx/feet/boots_dirt_jump_01.rsd" 1.000000 )
+    SetTrim ( 0.470000 )
+    SetPitchRange ( 0.900000 1.100000 )
+}

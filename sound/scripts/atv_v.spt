@@ -1,0 +1,12 @@
+create daSoundResourceData named atv_car
+{
+    AddFilename ( "sound/carsound/atv.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.670000 )
+}
+create daSoundResourceData named atv_horn
+{
+    AddFilename ( "sound/carsound/horn-beep2.rsd" 1.000000 )
+    SetTrim ( 0.680000 )
+    SetLooping ( true )
+}

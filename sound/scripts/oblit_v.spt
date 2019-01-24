@@ -1,0 +1,11 @@
+create daSoundResourceData named oblit_v_car
+{
+    AddFilename ( "sound/carsound/oblit.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.520000 )
+}
+create daSoundResourceData named oblit_horn
+{
+    AddFilename ( "sound/carsound/horn-hockey.rsd" 1.000000 )
+    SetTrim ( 0.770000 )
+}

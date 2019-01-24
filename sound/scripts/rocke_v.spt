@@ -1,0 +1,12 @@
+create daSoundResourceData named rocke_v_car
+{
+    AddFilename ( "sound/carsound/rocket_car_07.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 1.000000 )
+}
+create daSoundResourceData named rocke_horn
+{
+    AddFilename ( "sound/carsound/horn-tiny.rsd" 1.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+}

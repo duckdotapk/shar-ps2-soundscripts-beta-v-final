@@ -1,0 +1,12 @@
+create daSoundResourceData named zombi
+{
+    AddFilename ( "sound/carsound/zombiecar.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.500000 )
+}
+create daSoundResourceData named zombi_horn
+{
+    AddFilename ( "sound/carsound/horn-truck02.rsd" 1.000000 )
+    SetTrim ( 0.750000 )
+    SetLooping ( true )
+}

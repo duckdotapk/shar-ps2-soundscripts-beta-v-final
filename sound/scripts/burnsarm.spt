@@ -1,0 +1,12 @@
+create daSoundResourceData named burnsarm_car
+{
+    AddFilename ( "sound/carsound/armourcar.rsd" 1.000000 )
+    SetLooping ( true )
+    SetTrim ( 0.740000 )
+}
+create daSoundResourceData named burnsarm_horn
+{
+    AddFilename ( "sound/carsound/horn-truck02.rsd" 1.000000 )
+    SetTrim ( 0.740000 )
+    SetLooping ( true )
+}

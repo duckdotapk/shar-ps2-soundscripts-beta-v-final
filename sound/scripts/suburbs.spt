@@ -1,0 +1,105 @@
+create daSoundResourceData named tire_fire
+{
+    AddFilename ( "sound/soundfx/positional/tire_fire_loop_03.rsd" 1.000000 )
+    SetTrim ( 0.870000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named toxic_ooze
+{
+    AddFilename ( "sound/soundfx/positional/toxic_ooze_02.rsd" 1.000000 )
+    SetTrim ( 0.720000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named river
+{
+    AddFilename ( "sound/soundfx/positional/river_04.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named river_02
+{
+    AddFilename ( "sound/soundfx/positional/river_04.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+    SetStreaming ( true )
+}
+create daSoundResourceData named burns_crow
+{
+    AddFilename ( "sound/soundfx/positional/burns_crow.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetStreaming ( true )
+}
+create daSoundResourceData named platform_01
+{
+    AddFilename ( "sound/soundfx/gameplay/platform_03.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+}
+create daSoundResourceData named platform_02
+{
+    AddFilename ( "sound/soundfx/gameplay/platform_04.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetLooping ( true )
+}
+create daSoundResourceData named aplatform6
+{
+    AddFilename ( "sound/soundfx/gameplay/aplatform6.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetStreaming ( true )
+    SetLooping ( false )
+}
+create daSoundResourceData named giant_wheel
+{
+    AddFilename ( "sound/soundfx/positional/giant_wheel_loop_07.rsd" 0.000000 )
+    SetTrim ( 0.670000 )
+    SetStreaming ( true )
+    SetLooping ( true )
+}
+create daSoundResourceData named plantdoor
+{
+    AddFilename ( "sound/soundfx/gameplay/hdoor.rsd" 0.000000 )
+    SetTrim ( 0.540000 )
+}
+create daSoundResourceData named trapdoor
+{
+    AddFilename ( "sound/soundfx/gameplay/trapdoor.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+}
+create daSoundResourceData named vent
+{
+    AddFilename ( "sound/soundfx/positional/vent.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetStreaming ( true )
+    SetLooping ( true )
+}
+create daSoundResourceData named car_wreck
+{
+    AddFilename ( "sound/soundfx/positional/car_wreck.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetStreaming ( true )
+    SetLooping ( true )
+}
+create daSoundResourceData named cows
+{
+    AddFilename ( "sound/soundfx/positional/cows.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetStreaming ( true )
+    SetLooping ( true )
+}
+create daSoundResourceData named duff_truck
+{
+    AddFilename ( "sound/soundfx/gameplay/duff_truck.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetStreaming ( true )
+    SetLooping ( false )
+}
+create daSoundResourceData named trapdoor_PP
+{
+    AddFilename ( "sound/soundfx/gameplay/trapdoor_PP.rsd" 0.000000 )
+    SetTrim ( 1.000000 )
+    SetStreaming ( true )
+    SetLooping ( false )
+}

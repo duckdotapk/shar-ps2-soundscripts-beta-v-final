@@ -65,9 +65,9 @@ create globalSettings named tuner
 }
 create reverbSettings named pproom1
 {
-    SetGain ( 0.810000 )
-    SetFadeInTime ( 1.780000 )
-    SetFadeOutTime ( 1.110000 )
+    SetGain ( 0.640000 )
+    SetFadeInTime ( 1780.000 )
+    SetFadeOutTime ( 1110.000 )
     SetXboxRoom ( -500 )
     SetXboxRoomHF ( -150 )
     SetXboxRoomRolloffFactor ( 3.900000 )
@@ -92,9 +92,9 @@ create reverbSettings named pproom1
 }
 create reverbSettings named pproom2
 {
-    SetGain ( 0.840000 )
-    SetFadeInTime ( 1.560000 )
-    SetFadeOutTime ( 0.500000 )
+    SetGain ( 0.640000 )
+    SetFadeInTime ( 1560.000 )
+    SetFadeOutTime ( 500.0000 )
     SetXboxRoom ( -500 )
     SetXboxRoomHF ( -454 )
     SetXboxRoomRolloffFactor ( 3.900000 )
@@ -119,9 +119,9 @@ create reverbSettings named pproom2
 }
 create reverbSettings named pproom3
 {
-    SetGain ( 0.840000 )
-    SetFadeInTime ( 0.500000 )
-    SetFadeOutTime ( 0.500000 )
+    SetGain ( 0.670000 )
+    SetFadeInTime ( 500.0000 )
+    SetFadeOutTime ( 500.0000 )
     SetXboxRoom ( -1000 )
     SetXboxRoomHF ( -454 )
     SetXboxRoomRolloffFactor ( 1.800000 )
@@ -146,9 +146,9 @@ create reverbSettings named pproom3
 }
 create reverbSettings named PP_tunnel_01
 {
-    SetGain ( 0.810000 )
-    SetFadeInTime ( 0.500000 )
-    SetFadeOutTime ( 0.500000 )
+    SetGain ( 0.650000 )
+    SetFadeInTime ( 500.0000 )
+    SetFadeOutTime ( 500.0000 )
     SetXboxRoom ( -1240 )
     SetXboxRoomHF ( -454 )
     SetXboxRoomRolloffFactor ( 0.000000 )
@@ -173,9 +173,9 @@ create reverbSettings named PP_tunnel_01
 }
 create reverbSettings named PP_tunnel_02
 {
-    SetGain ( 0.790000 )
-    SetFadeInTime ( 0.500000 )
-    SetFadeOutTime ( 0.500000 )
+    SetGain ( 0.660000 )
+    SetFadeInTime ( 500.0000 )
+    SetFadeOutTime ( 500.0000 )
     SetXboxRoom ( -1000 )
     SetXboxRoomHF ( -454 )
     SetXboxRoomRolloffFactor ( 0.000000 )
@@ -200,9 +200,9 @@ create reverbSettings named PP_tunnel_02
 }
 create reverbSettings named burns_tunnel
 {
-    SetGain ( 0.790000 )
-    SetFadeInTime ( 0.500000 )
-    SetFadeOutTime ( 0.500000 )
+    SetGain ( 0.640000 )
+    SetFadeInTime ( 500.0000 )
+    SetFadeOutTime ( 500.0000 )
     SetXboxRoom ( -1000 )
     SetXboxRoomHF ( -454 )
     SetXboxRoomRolloffFactor ( 0.000000 )
@@ -227,9 +227,9 @@ create reverbSettings named burns_tunnel
 }
 create reverbSettings named mansion_interior
 {
-    SetGain ( 0.770000 )
-    SetFadeInTime ( 0.500000 )
-    SetFadeOutTime ( 0.500000 )
+    SetGain ( 0.660000 )
+    SetFadeInTime ( 500.0000 )
+    SetFadeOutTime ( 500.0000 )
     SetXboxRoom ( -1000 )
     SetXboxRoomHF ( -454 )
     SetXboxRoomRolloffFactor ( 0.000000 )
@@ -254,9 +254,9 @@ create reverbSettings named mansion_interior
 }
 create reverbSettings named sewers
 {
-    SetGain ( 0.800000 )
-    SetFadeInTime ( 0.500000 )
-    SetFadeOutTime ( 0.500000 )
+    SetGain ( 0.670000 )
+    SetFadeInTime ( 500.0000 )
+    SetFadeOutTime ( 500.0000 )
     SetXboxRoom ( -1000 )
     SetXboxRoomHF ( -454 )
     SetXboxRoomRolloffFactor ( 0.000000 )
@@ -281,9 +281,9 @@ create reverbSettings named sewers
 }
 create reverbSettings named stonecuttertunnel
 {
-    SetGain ( 0.790000 )
-    SetFadeInTime ( 0.500000 )
-    SetFadeOutTime ( 0.500000 )
+    SetGain ( 0.640000 )
+    SetFadeInTime ( 500.0000 )
+    SetFadeOutTime ( 500.0000 )
     SetXboxRoom ( -1000 )
     SetXboxRoomHF ( -454 )
     SetXboxRoomRolloffFactor ( 1.800000 )
@@ -308,9 +308,9 @@ create reverbSettings named stonecuttertunnel
 }
 create reverbSettings named stonecutterhall
 {
-    SetGain ( 0.810000 )
-    SetFadeInTime ( 0.500000 )
-    SetFadeOutTime ( 0.500000 )
+    SetGain ( 0.670000 )
+    SetFadeInTime ( 500.0000 )
+    SetFadeOutTime ( 500.0000 )
     SetXboxRoom ( -1000 )
     SetXboxRoomHF ( -454 )
     SetXboxRoomRolloffFactor ( 3.600000 )
@@ -335,8 +335,8 @@ create reverbSettings named stonecutterhall
 }
 create reverbSettings named stadiumtunnel
 {
-    SetGain ( 0.830000 )
-    SetFadeInTime ( 10.000000 )
+    SetGain ( 0.690000 )
+    SetFadeInTime ( 1000.0000 )
     SetFadeOutTime ( 6518.520020 )
     SetXboxRoom ( -1000 )
     SetXboxRoomHF ( -454 )
@@ -362,9 +362,9 @@ create reverbSettings named stadiumtunnel
 }
 create reverbSettings named krustylu
 {
-    SetGain ( 0.770000 )
-    SetFadeInTime ( 0.500000 )
-    SetFadeOutTime ( 0.500000 )
+    SetGain ( 0.550000 )
+    SetFadeInTime ( 500.0000 )
+    SetFadeOutTime ( 500.0000 )
     SetXboxRoom ( -1000 )
     SetXboxRoomHF ( -454 )
     SetXboxRoomRolloffFactor ( 0.000000 )

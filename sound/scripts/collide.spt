@@ -128,7 +128,7 @@ create daSoundResourceData named car_hit_pedestrian
     AddFilename ( "sound/soundfx/collisions/car_hit_body_02.rsd" 1.000000 )
     AddFilename ( "sound/soundfx/collisions/car_hit_body_03.rsd" 1.000000 )
     SetPitchRange ( 0.900000 1.100000 )
-    SetTrim ( 0.500000 )
+    SetTrim ( 0.670000 )
 }
 create daSoundResourceData named microphone_hit
 {

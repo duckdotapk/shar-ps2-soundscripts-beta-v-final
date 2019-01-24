@@ -5598,6 +5598,11 @@ create daSoundResourceData named C_hooligan_2_convinit_Nel_L4M5
     AddFilename ( "conversations/C_hooligan_2_convinit_Nel_L4M5.rsd" 1.000000 )
     SetStreaming ( true )
 }
+create daSoundResourceData named C_hooligan_3_convinit_Mrg_L4M5
+{
+    AddFilename ( "conversations/C_hooligan_3_convinit_Mrg_L4M5.rsd" 1.000000 )
+    SetStreaming ( true )
+}
 create daSoundResourceData named C_hovercar_1_convinit_Frk_L5
 {
     AddFilename ( "conversations/C_hovercar_1_convinit_Frk_L5.rsd" 1.000000 )
